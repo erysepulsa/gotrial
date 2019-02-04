@@ -1,0 +1,2 @@
+# gotrial
+echo golang template
